@@ -1,16 +1,22 @@
-"use strict";     // treat all JS codes as newer version
+"use strict";       // treat all JS code as newer version of JS
 
-//alert(3+3)      // we are using nodejs, not browser
+// alert("virus detected!"   // we are using nodejs, not browser
 
-//console.log(5*5)   // code readability should be high
-//console.log("Ajmain")
+console.log(4-4)       //code readability should be high
+console.log("Ajmain")
 
+let name = "Ajmain"
+let age = 22
+let IsLoggedIn = true
+  
 
-let name = "Abir Ajmain" // string
-let age = 20             // number
-let IsLoggedIn = true    // boolean
+//Data Types:
+//1. number            
+//2. bigint   
+//3. string            
+//4. boolean
+//5. null
+//6. undefined
+//7. symbol 
 
-let district = null
-console.table([name, age, IsLoggedIn, district])
-
-console.log(typeof name)
+//8. object
