@@ -10,7 +10,8 @@ let age = 22
 let IsLoggedIn = true
   
 
-//Data Types:
+//Data Types:-
+
 //1. number            
 //2. bigint   
 //3. string            
