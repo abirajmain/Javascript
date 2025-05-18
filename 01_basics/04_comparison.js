@@ -12,6 +12,7 @@
 //console.log("4" > 4)
 //console.log("05" < 8)
 
+// 'null' & 'undefined' should be avoided. Bcz this comparisons create confusion.
 //  comparison of null;
 
 // console.log(null > 5)  // here 'null' has treated as 0;
@@ -24,5 +25,6 @@ console.log(undefined > 0)
 console.log(undefined >= 0)
 
 // '==', '===' VS '<', '>'
+//'=' --> checks values and '===' checks not only values but also data types;
 
 // they work differently;
